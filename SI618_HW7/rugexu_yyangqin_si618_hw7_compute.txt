@@ -1,0 +1,4 @@
+toxic_1	38
+toxic_2	25
+toxic_3	13
+targted	24
